@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I believe robots will be our best collaborators, not replacements!**
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<p align="left"> <a href="https://twitter.com/fasih83660570" target="blank"><img src="https://img.shields.io/twitter/follow/fasih83660570?logo=twitter&style=for-the-badge" alt="fasih83660570" /></a> </p>
+# <p align="left"> <a href="https://twitter.com/fasih83660570" target="blank"><img src="https://img.shields.io/twitter/follow/fasih83660570?logo=twitter&style=for-the-badge" alt="fasih83660570" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
