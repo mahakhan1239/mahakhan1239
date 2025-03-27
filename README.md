@@ -57,12 +57,12 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FasihCodes&show_icons=true&locale=en&layout=compact" alt="FasihCodes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahakhan1239&show_icons=true&locale=en&layout=compact" alt="mahakhan1239" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=FasihCodes&show_icons=true&locale=en" alt="FasihCodes" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahakhan1239&show_icons=true&locale=en" alt="mahakhan1239" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FasihCodes&" alt="FasihCodes" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahakhan1239&" alt="mahakhan1239" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FasihCodes&label=Profile%20views&color=0e75b6&style=flat" alt="FasihCodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahakhan1239&label=Profile%20views&color=0e75b6&style=flat" alt="mahakhan1239" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FasihCodes" alt="FasihCodes" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahakhan1239" alt="mahakhan1239" /></a> </p>
